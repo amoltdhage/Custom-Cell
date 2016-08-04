@@ -13,6 +13,12 @@
 		6B91F3AB1D520D6D00E4A543 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B91F3A91D520D6D00E4A543 /* Main.storyboard */; };
 		6B91F3AD1D520D6D00E4A543 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6B91F3AC1D520D6D00E4A543 /* Assets.xcassets */; };
 		6B91F3B01D520D6D00E4A543 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B91F3AE1D520D6D00E4A543 /* LaunchScreen.storyboard */; };
+		6B91F3BB1D5216B000E4A543 /* Aashish Sir.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6B91F3BA1D5216B000E4A543 /* Aashish Sir.jpeg */; };
+		6B91F3C11D52188500E4A543 /* CustomTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B91F3C01D52188500E4A543 /* CustomTableViewCell.m */; };
+		6BC37E411D535A4B00BB94C0 /* Pawan.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6BC37E401D535A4B00BB94C0 /* Pawan.jpeg */; };
+		6BC37E431D535AC400BB94C0 /* Ajinkya.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6BC37E421D535AC400BB94C0 /* Ajinkya.jpeg */; };
+		6BC37E451D535AE300BB94C0 /* Akshay.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6BC37E441D535AE300BB94C0 /* Akshay.jpeg */; };
+		6BC37E471D535B2700BB94C0 /* Amol.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6BC37E461D535B2700BB94C0 /* Amol.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +32,13 @@
 		6B91F3AC1D520D6D00E4A543 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6B91F3AF1D520D6D00E4A543 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6B91F3B11D520D6D00E4A543 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6B91F3BA1D5216B000E4A543 /* Aashish Sir.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Aashish Sir.jpeg"; sourceTree = "<group>"; };
+		6B91F3BF1D52188500E4A543 /* CustomTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomTableViewCell.h; sourceTree = "<group>"; };
+		6B91F3C01D52188500E4A543 /* CustomTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomTableViewCell.m; sourceTree = "<group>"; };
+		6BC37E401D535A4B00BB94C0 /* Pawan.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Pawan.jpeg; sourceTree = "<group>"; };
+		6BC37E421D535AC400BB94C0 /* Ajinkya.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ajinkya.jpeg; sourceTree = "<group>"; };
+		6BC37E441D535AE300BB94C0 /* Akshay.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Akshay.jpeg; sourceTree = "<group>"; };
+		6BC37E461D535B2700BB94C0 /* Amol.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Amol.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +75,14 @@
 				6B91F3A41D520D6D00E4A543 /* AppDelegate.m */,
 				6B91F3A61D520D6D00E4A543 /* ViewController.h */,
 				6B91F3A71D520D6D00E4A543 /* ViewController.m */,
+				6B91F3BF1D52188500E4A543 /* CustomTableViewCell.h */,
+				6B91F3C01D52188500E4A543 /* CustomTableViewCell.m */,
 				6B91F3A91D520D6D00E4A543 /* Main.storyboard */,
+				6B91F3BA1D5216B000E4A543 /* Aashish Sir.jpeg */,
+				6BC37E401D535A4B00BB94C0 /* Pawan.jpeg */,
+				6BC37E441D535AE300BB94C0 /* Akshay.jpeg */,
+				6BC37E421D535AC400BB94C0 /* Ajinkya.jpeg */,
+				6BC37E461D535B2700BB94C0 /* Amol.jpeg */,
 				6B91F3AC1D520D6D00E4A543 /* Assets.xcassets */,
 				6B91F3AE1D520D6D00E4A543 /* LaunchScreen.storyboard */,
 				6B91F3B11D520D6D00E4A543 /* Info.plist */,
@@ -138,7 +158,12 @@
 			files = (
 				6B91F3B01D520D6D00E4A543 /* LaunchScreen.storyboard in Resources */,
 				6B91F3AD1D520D6D00E4A543 /* Assets.xcassets in Resources */,
+				6BC37E411D535A4B00BB94C0 /* Pawan.jpeg in Resources */,
 				6B91F3AB1D520D6D00E4A543 /* Main.storyboard in Resources */,
+				6BC37E451D535AE300BB94C0 /* Akshay.jpeg in Resources */,
+				6B91F3BB1D5216B000E4A543 /* Aashish Sir.jpeg in Resources */,
+				6BC37E471D535B2700BB94C0 /* Amol.jpeg in Resources */,
+				6BC37E431D535AC400BB94C0 /* Ajinkya.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -151,6 +176,7 @@
 			files = (
 				6B91F3A81D520D6D00E4A543 /* ViewController.m in Sources */,
 				6B91F3A51D520D6D00E4A543 /* AppDelegate.m in Sources */,
+				6B91F3C11D52188500E4A543 /* CustomTableViewCell.m in Sources */,
 				6B91F3A21D520D6D00E4A543 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +328,7 @@
 				6B91F3B61D520D6D00E4A543 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

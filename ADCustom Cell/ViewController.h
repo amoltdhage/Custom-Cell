@@ -7,8 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "CustomTableViewCell.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<UITableViewDelegate,UITableViewDelegate>
+{
+    NSMutableArray *arrayForCell ,*arraydetails;
+}
 
 
 @end
